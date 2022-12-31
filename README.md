@@ -6,8 +6,6 @@ This is made from Brad Traversy's [YouTube tutorial](https://youtu.be/fU4o_BKaUZ
 
 ## Usage
 
-Rename the `example.env` file to `.env`.
-
 Generate an API KEY at [OpenAI](https://beta.openai.com/) and add it to the `.env` file.
 
 Install the dependencies
